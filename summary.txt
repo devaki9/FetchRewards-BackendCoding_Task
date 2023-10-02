@@ -1,0 +1,15 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+   The Python language and Flask library are easier to setup and more convenient 
+    for API development. Additionally, the use of Postman for API testing helps to ensure the API is tested appropriately
+    without having to worry about a frontend, while providing different data request and response format capabilities 
+
+2. What are the advantages and disadvantages of your solution?
+    The advantages of my solution are that its an simple logic that can be applied and run on any machine.
+    The disadvantage is that it doesn't take into account concurrent attempts to modify the same data.
+    For that, I plan on using threads while ensuring read-write and write-write conflicts are avoided.
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+    In my 2nd year of bachelor's, a professor had tasked me with building an entire web application from scratch
+    using Spring Boot and AngularJs. However, I was also to ensure the data is materialized. For this project, I studied
+    databases, JavaScript, AngularJs, the MVC architecture, Java Beans and its transition to the polished Spring Boot framework.
+    Additionally, I found it both challenging and interesting to apply relevant bits and pieces from the core topics involved
+    in application development
